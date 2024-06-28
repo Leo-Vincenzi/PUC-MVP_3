@@ -1,4 +1,4 @@
-﻿municipio;codigo;latitude;longitude;populacao;areatotal;receitatotal;indicadordetransparencia;idhm
+﻿municipio;codigo;latitude;longitude;populacao;areatotal;receitatotal;tce;idhm
 Angra dos Reis;3300100;-23,006944;-44,317778;203785;813,21;1295232343,1;0,83;0,724
 Aperibé;3300159;-21,620833;-42,342778;11759;94,542;53778217,2;0,37;0,692
 Araruama;3300209;-22,872778;-42,342778;132400;638,15;457079334,1;0,77;0,718
