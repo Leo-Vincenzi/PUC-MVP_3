@@ -11,6 +11,7 @@
 		"annotations": [],
 		"type": "Excel",
 		"typeProperties": {
+			"sheetName": "testeexcel",
 			"location": {
 				"type": "HttpServerLocation"
 			},
