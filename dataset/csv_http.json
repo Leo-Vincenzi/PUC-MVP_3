@@ -1,0 +1,24 @@
+{
+	"name": "csv_http",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Http1",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "dados_externos"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			},
+			"columnDelimiter": ";",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
