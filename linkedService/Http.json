@@ -1,0 +1,13 @@
+{
+	"name": "Http",
+	"properties": {
+		"description": "Baixa planilha do IPEA no endereço\nhttps://www.ipea.gov.br/ipeageo/arquivos/bases/RJ_Mun97_region.xls",
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://www.ipea.gov.br/ipeageo/arquivos/bases/RJ_Mun97_region.xls",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
