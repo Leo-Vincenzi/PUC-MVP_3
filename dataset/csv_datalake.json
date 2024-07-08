@@ -13,6 +13,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "RJ_Mun97_region.csv",
 				"container": "bronze"
 			},
 			"columnDelimiter": ";",
