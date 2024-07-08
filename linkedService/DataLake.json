@@ -1,0 +1,12 @@
+{
+	"name": "DataLake",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=mvpleo;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEU4N0JCNjA4LTNCQjMtNEQzMi1CMkU1LTgyMzY4MkNDNzg1RF9kZjViZmQ5NS1jM2IwLTQxMjYtYTgzYS0yY2Y4Y2IwMjZjYmQiDQp9"
+		}
+	}
+}
