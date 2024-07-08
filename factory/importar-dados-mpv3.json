@@ -1,0 +1,9 @@
+{
+	"name": "importar-dados-mpv3",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac2d6189-5ec9-4bbf-b38b-c2155b14ec27",
+		"tenantId": "2cbbebe4-7638-461b-9f8c-162eddc3d0e4"
+	}
+}
