@@ -1,0 +1,21 @@
+{
+	"name": "Excel_http",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Http",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "dados_externos"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			},
+			"firstRowAsHeader": true
+		},
+		"schema": []
+	}
+}
