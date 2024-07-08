@@ -1,0 +1,31 @@
+{
+	"name": "csv_database1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Datalake1",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "dados_internos"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "ca-2020-01.csv",
+				"container": "bronze"
+			},
+			"columnDelimiter": ";",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "Regiao - Sigla;Estado - Sigla;Municipio;Revenda;CNPJ da Revenda;Nome da Rua;Numero Rua;Complemento;Bairro;Cep;Produto;Data da Coleta;Valor de Venda;Valor de Compra;Unidade de Medida;Bandeira",
+				"type": "String"
+			}
+		]
+	}
+}
