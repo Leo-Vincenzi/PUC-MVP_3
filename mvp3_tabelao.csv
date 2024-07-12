@@ -1,0 +1,93 @@
+codigo_rj;idhm;area;populacao;densidade;escolaridade;receita;despesa;itai;link_wiki;nome_municipio;regiao;latitude;longitude
+3300225;0.684;110.72;11828;106.82;98.0;2642047486;2105059175;0.8;https://pt.wikipedia.org/wiki/Areal;Areal;Centro Fluminense;-23.006944;-44.317778
+3300456;0.684;78.98;483087;6116.19;96.2;105849117.4;107688028.7;0.63;https://pt.wikipedia.org/wiki/Belford_Roxo;Belford Roxo;Metropolitana;-21.620833;-42.342778
+3305752;0.654;143.0;31086;217.37;98.1;1023913543;1110651415;0.74;https://pt.wikipedia.org/wiki/Tangu%C3%A1;Tanguá;Metropolitana;-22.872778;-42.342778
+3305158;0.66;220.17;22080;100.28;98.4;154233467.5;149695956.2;0.47;https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Vale_do_Rio_Preto;São José do Vale do Rio Preto;Metropolitana;-22.230833;-43.105833
+3303203;0.753;19.39;146774;7568.4;96.7;564286088.4;695630675.4;0.81;https://pt.wikipedia.org/wiki/Nil%C3%B3polis;Nilópolis;Metropolitana;-22.746944;-41.881944
+3302403;0.764;1216.98;246391;202.46;96.9;674868699;594709659.8;0.81;https://pt.wikipedia.org/wiki/Maca%C3%A9;Macaé;Norte Fluminense;-22.965833;-42.027778
+3306107;0.738;1300.76;68088;52.34;97.7;357346815;437740598.6;0.71;https://pt.wikipedia.org/wiki/Valen%C3%A7a_(Rio_de_Janeiro);Valença;Sul Fluminense;-22.47;-43.825833
+3300159;0.692;94.54;11034;116.71;96.7;907755732.5;882140962.5;0.37;https://pt.wikipedia.org/wiki/Aperib%C3%A9;Aperibé;Noroeste Fluminense;-22.543889;-44.170833
+3300803;0.7;954.74;56943;59.64;98.4;1149927003;1302720147;0.62;https://pt.wikipedia.org/wiki/Cachoeiras_de_Macacu;Cachoeiras de Macacu;Metropolitana;-22.763889;-43.398889
+3301801;0.722;139.38;12242;87.83;98.5;165896135.3;169930325.6;0.49;https://pt.wikipedia.org/wiki/Engenheiro_Paulo_de_Frontin;Engenheiro Paulo de Frontin;Metropolitana;-22.151944;-42.418889
+3301108;0.709;747.21;19390;25.95;95.4;239620161.1;228039748.1;0.46;https://pt.wikipedia.org/wiki/Cantagalo_(Rio_de_Janeiro);Cantagalo;Centro Fluminense;-21.133889;-41.68
+3303856;0.671;314.34;29619;94.23;97.7;1511318950;1491209025;0.82;https://pt.wikipedia.org/wiki/Paty_do_Alferes;Paty do Alferes;Metropolitana;-22.878889;-42.018889
+3304557;0.799;1200.32;6211223;5174.6;96.9;438779551.8;471608192;0.85;https://pt.wikipedia.org/wiki/Rio_de_Janeiro;Rio de Janeiro;Metropolitana;-22.462778;-42.652778
+3303807;0.693;924.29;45243;48.95;93.8;123807482;107380308.3;0.63;https://pt.wikipedia.org/wiki/Paraty;Paraty;Sul Fluminense;-21.575;-41.910833
+3304300;0.71;459.45;56276;122.48;97.2;209475363.6;168216181.1;0.52;https://pt.wikipedia.org/wiki/Rio_Bonito;Rio Bonito;Metropolitana;-21.753889;-41.323889
+3302007;0.715;282.6;116841;413.44;97.6;95126034.5;101374419;0.83;https://pt.wikipedia.org/wiki/Itagua%C3%AD;Itaguaí;Metropolitana;-21.980833;-42.367778
+3300407;0.729;547.13;169894;310.52;98.4;2984807495;3329065053;0.81;https://pt.wikipedia.org/wiki/Barra_Mansa;Barra Mansa;Sul Fluminense;-22.186944;-41.660833
+3301157;0.648;522.59;12958;24.8;98.6;167688796.5;164059565.3;0.57;https://pt.wikipedia.org/wiki/Cardoso_Moreira;Cardoso Moreira;Centro Fluminense;-21.487778;-41.615833
+3304805;0.691;1034.83;38961;37.65;97.1;86234114.48;130644694.8;0.64;https://pt.wikipedia.org/wiki/S%C3%A3o_Fid%C3%A9lis;São Fidélis;Norte Fluminense;-21.933889;-42.608889
+3300506;0.66;382.43;28102;73.48;97.4;102677971.4;95446626.26;0.48;https://pt.wikipedia.org/wiki/Bom_Jardim_(Rio_de_Janeiro);Bom Jardim;Centro Fluminense;-22.480833;-42.203889
+3300258;0.733;152.1;30986;203.71;99.2;575946749.7;552609443.4;0.7;https://pt.wikipedia.org/wiki/Arraial_do_Cabo;Arraial do Cabo;Baixadas;-22.028889;-43.205
+3304409;0.683;846.79;17401;20.55;97.7;141024484.4;164770436.9;0.66;https://pt.wikipedia.org/wiki/Rio_Claro_(Rio_de_Janeiro);Rio Claro;Sul Fluminense;-22.085;-41.867778
+3302106;0.713;433.18;22919;52.91;99.6;154181401.7;162280841.3;0.51;https://pt.wikipedia.org/wiki/Itaocara;Itaocara;Noroeste Fluminense;-22.028889;-42.360833
+3302205;0.73;1106.69;101041;91.3;96.1;97548268.39;79305277.6;0.45;https://pt.wikipedia.org/wiki/Itaperuna;Itaperuna;Noroeste Fluminense;-22.050833;-42.521944
+3302254;0.737;241.03;30908;128.23;98.2;4432566332;4566621664;0.78;https://pt.wikipedia.org/wiki/Itatiaia;Itatiaia;Sul Fluminense;-22.785833;-43.311944
+3304110;0.713;50.89;20373;400.32;98.9;112646012.8;121172852.6;0.85;https://pt.wikipedia.org/wiki/Porto_Real;Porto Real;Sul Fluminense;-22.55;-43.677778
+3304201;0.768;1099.33;129612;117.9;97.0;465794299.6;449068891.8;0.83;https://pt.wikipedia.org/wiki/Resende_(Rio_de_Janeiro);Resende;Sul Fluminense;-22.536944;-42.981944
+3305307;0.646;397.21;7750;19.51;94.6;376682339.6;395938267.4;0.52;https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_do_Alto;São Sebastião do Alto;Centro Fluminense;-22.838889;-42.228889
+3301850;0.698;358.44;51696;144.22;97.6;1026461543;1084529334;0.87;https://pt.wikipedia.org/wiki/Guapimirim;Guapimirim;Metropolitana;-22.7475;-42.855833
+3303609;0.72;190.94;41375;216.68;96.1;996892945;1028448671;0.59;https://pt.wikipedia.org/wiki/Paracambi;Paracambi;Metropolitana;-22.851944;-43.775
+3305802;0.73;773.33;165123;213.52;96.2;132105213.7;122981095.5;0.59;https://pt.wikipedia.org/wiki/Teres%C3%B3polis;Teresópolis;Metropolitana;-21.420833;-41.690833
+3304706;0.718;603.63;41325;68.46;98.1;143001885.7;144725384.1;0.67;https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_de_P%C3%A1dua_(Rio_de_Janeiro);Santo Antônio de Pádua;Noroeste Fluminense;-21.678889;-42.081944
+3300951;0.685;108.63;8741;80.46;99.4;514852700.7;485113643.5;0.71;https://pt.wikipedia.org/wiki/Comendador_Levy_Gasparian;Comendador Levy Gasparian;Baixadas;-21.205;-41.887778
+3303104;0.73;387.07;15074;38.94;98.6;386526955.1;363288823;0.8;https://pt.wikipedia.org/wiki/Natividade_(Rio_de_Janeiro);Natividade;Noroeste Fluminense;-22.491389;-44.559167
+3305133;0.652;249.68;7070;28.32;99.2;366761094.7;414412689.3;0.47;https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_de_Ub%C3%A1;São José de Ubá;Noroeste Fluminense;-22.642778;-43.652778
+3302270;0.659;81.69;96289;1178.61;96.6;88479925.84;80674335.1;0.7;https://pt.wikipedia.org/wiki/Japeri;Japeri;Metropolitana;-21.205833;-42.122778
+3305604;0.654;937.75;21352;22.77;98.8;3949268272;2802072767;0.46;https://pt.wikipedia.org/wiki/Silva_Jardim;Silva Jardim;Baixadas;-22.370833;-41.786944
+3302452;0.703;78.36;5415;69.1;97.7;81968414.08;75154115.89;0.5;https://pt.wikipedia.org/wiki/Macuco_(Rio_de_Janeiro);Macuco;Centro Fluminense;-21.983889;-42.252778
+3304904;0.739;248.16;896744;3613.57;96.7;912134753.2;1186191050;0.76;https://pt.wikipedia.org/wiki/S%C3%A3o_Gon%C3%A7alo_(Rio_de_Janeiro);São Gonçalo;Metropolitana;-22.652778;-43.040833
+3303500;0.713;520.58;785867;1509.6;96.2;585167526.8;599477797.4;0.88;https://pt.wikipedia.org/wiki/Nova_Igua%C3%A7u;Nova Iguaçu;Metropolitana;-22.96;-44.040833
+3302304;0.668;253.53;7336;28.94;98.0;6351689732;6073477909;0.45;https://pt.wikipedia.org/wiki/Laje_do_Muria%C3%A9;Laje do Muriaé;Noroeste Fluminense;-22.918889;-42.818889
+3302700;0.765;361.57;197277;545.61;96.4;146168376.1;146390848.3;0.93;https://pt.wikipedia.org/wiki/Maric%C3%A1;Maricá;Metropolitana;-22.526944;-43.732778
+3301900;0.693;429.96;224267;521.6;97.1;605572509;568570126.4;0.59;https://pt.wikipedia.org/wiki/Itabora%C3%AD;Itaboraí;Metropolitana;-22.781944;-43.428889
+3300233;0.728;70.97;40006;563.65;97.6;300543321.9;326025662.6;0.76;https://pt.wikipedia.org/wiki/Arma%C3%A7%C3%A3o_dos_B%C3%BAzios;Armação dos Búzios;Baixadas;-22.453889;-43.468889
+3304151;0.704;719.64;22393;31.12;98.5;180104706.5;188971597.3;0.56;https://pt.wikipedia.org/wiki/Quissam%C3%A3;Quissamã;Norte Fluminense;-21.411944;-42.196944
+3302809;0.736;95.32;17502;183.61;99.3;95854782.07;144694963.9;0.51;https://pt.wikipedia.org/wiki/Mendes;Mendes;Metropolitana;-21.041944;-41.972778
+3305109;0.719;35.21;440962;12521.64;96.6;391689711.4;507392863.4;0.62;https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_de_Meriti;São João de Meriti;Metropolitana;-22.809297;-43.415531
+3301306;0.726;462.91;46110;99.61;98.5;6015119140;5303439600;0.76;https://pt.wikipedia.org/wiki/Casimiro_de_Abreu_(Rio_de_Janeiro);Casimiro de Abreu;Centro Fluminense;-22.882778;-43.103889
+3300209;0.718;638.27;129671;203.16;98.3;839506632.4;841562897.2;0.77;https://pt.wikipedia.org/wiki/Araruama;Araruama;Baixadas;-22.281944;-42.530833
+3303906;0.745;791.14;278881;352.5;97.4;2511471373;2746121542;0.71;https://pt.wikipedia.org/wiki/Petr%C3%B3polis;Petrópolis;Metropolitana;-22.760322;-43.447728
+3304128;0.69;284.82;13682;48.04;97.6;161861521.1;231539277.3;0.72;https://pt.wikipedia.org/wiki/Quatis;Quatis;Sul Fluminense;-22.610833;-43.708889
+3305554;0.713;265.18;80596;303.92;97.5;272108096.8;294976924;0.65;https://pt.wikipedia.org/wiki/Serop%C3%A9dica;Seropédica;Metropolitana;-22.161944;-43.292778
+3302908;0.745;287.93;26582;92.32;98.6;511496089;515143605.1;0.62;https://pt.wikipedia.org/wiki/Miguel_Pereira;Miguel Pereira;Metropolitana;-23.2225;-44.713889
+3301702;0.711;467.31;808161;1729.36;96.1;221931739;223401966.8;0.74;https://pt.wikipedia.org/wiki/Duque_de_Caxias_(Rio_de_Janeiro);Duque de Caxias;Metropolitana;-22.428889;-43.418889
+3303955;0.715;82.25;24298;295.4;96.7;1987575169;1968360439;0.45;https://pt.wikipedia.org/wiki/Pinheiral;Pinheiral;Sul Fluminense;-22.505;-43.178889
+3304144;0.68;75.92;140523;1850.76;95.7;179781401.5;174855798.2;0.54;https://pt.wikipedia.org/wiki/Queimados;Queimados;Metropolitana;-22.512778;-44.000833
+3305901;0.667;591.15;10302;17.43;98.4;343948140.4;346536148.3;0.77;https://pt.wikipedia.org/wiki/Trajano_de_Moraes;Trajano de Moraes;Centro Fluminense;-22.628889;-43.897778
+3302502;0.709;390.77;228127;583.78;97.7;146108554.4;159897033.3;0.67;https://pt.wikipedia.org/wiki/Mag%C3%A9;Magé;Metropolitana;-20.962778;-42.040833
+3303708;0.702;571.11;42063;73.65;98.6;250199089.1;226462885.8;0.78;https://pt.wikipedia.org/wiki/Para%C3%ADba_do_Sul;Paraíba do Sul;Centro Fluminense;-22.42;-44.29
+3301009;0.716;4032.48;483540;119.91;97.3;138283821.3;133623161.5;0.79;https://pt.wikipedia.org/wiki/Campos_dos_Goytacazes;Campos dos Goytacazes;Norte Fluminense;-22.406944;-44.257778
+3303302;0.837;133.75;481749;3601.67;97.0;513313536.9;509034034.4;0.91;https://pt.wikipedia.org/wiki/Niter%C3%B3i;Niterói;Metropolitana;-22.715833;-43.555
+3300902;0.691;558.28;14616;26.18;98.8;500754055;562116960.2;0.62;https://pt.wikipedia.org/wiki/Cambuci;Cambuci;Noroeste Fluminense;-22.106944;-41.471944
+3301603;0.659;379.61;10980;28.92;97.8;982774300.5;928747604.4;0.57;https://pt.wikipedia.org/wiki/Duas_Barras;Duas Barras;Centro Fluminense;-22.468889;-44.446944
+3305208;0.712;332.48;104029;312.88;97.9;371746538.2;493682175.7;0.87;https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_da_Aldeia;São Pedro da Aldeia;Baixadas;-22.707778;-42.625833
+3304508;0.68;478.78;8954;18.7;98.5;219871058.5;212196434.3;0.19;https://pt.wikipedia.org/wiki/Rio_das_Flores;Rio das Flores;Sul Fluminense;-22.722778;-44.135833
+3300605;0.732;596.65;35173;58.95;98.1;105582372.3;107120692.9;0.71;https://pt.wikipedia.org/wiki/Bom_Jesus_do_Itabapoana;Bom Jesus do Itabapoana;Noroeste Fluminense;-22.167778;-43.585833
+3301207;0.696;305.74;17198;56.25;98.6;1114526723;1182932737;0.73;https://pt.wikipedia.org/wiki/Carmo_(Rio_de_Janeiro);Carmo;Norte Fluminense;-22.526944;-41.945
+3306008;0.725;322.84;78346;242.68;97.9;37784146487;43242247098;0.54;https://pt.wikipedia.org/wiki/Tr%C3%AAs_Rios;Três Rios;Centro Fluminense;-22.902778;-43.207778
+3306156;0.659;201.93;10207;50.55;96.8;110222049.8;123408524;0.72;https://pt.wikipedia.org/wiki/Varre-Sai;Varre-Sai;Noroeste Fluminense;-21.955;-42.007778
+3300308;0.733;584.61;92883;158.88;98.7;248618422;238889473.3;0.87;https://pt.wikipedia.org/wiki/Barra_do_Pira%C3%AD;Barra do Piraí;Sul Fluminense;-21.538889;-42.18
+3306206;0.714;536.07;33976;63.38;98.8;299114324.1;276597935.8;0.48;https://pt.wikipedia.org/wiki/Vassouras;Vassouras;Metropolitana;-21.645833;-41.746944
+3301876;0.761;50.97;27920;547.7;98.1;217898052.7;235386457.4;0.7;https://pt.wikipedia.org/wiki/Iguaba_Grande;Iguaba Grande;Baixadas;-21.47;-41.118889
+3301504;0.729;113.04;20783;183.84;97.6;2074975505;2898447674;0.78;https://pt.wikipedia.org/wiki/Cordeiro_(Rio_de_Janeiro);Cordeiro;Centro Fluminense;-22.826944;-43.053889
+3305000;0.671;452.39;36573;80.84;97.5;865275576.1;808722137.3;0.41;https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_da_Barra;São João da Barra;Norte Fluminense;-21.64;-41.050833
+3301405;0.712;338.26;21104;62.39;98.8;986963159;1081453935;0.93;https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_de_Macabu;Conceição de Macabu;Norte Fluminense;-22.803889;-43.371944
+3302858;0.737;41.16;167127;4059.54;97.9;85796173.9;73863986.9;0.69;https://pt.wikipedia.org/wiki/Mesquita_(Rio_de_Janeiro);Mesquita;Metropolitana;-21.357778;-41.942778
+3304003;0.708;490.25;27474;56.04;97.7;119476728.9;104299168.4;0.78;https://pt.wikipedia.org/wiki/Pira%C3%AD;Piraí;Sul Fluminense;-22.150833;-42.923889
+3302056;0.688;291.19;14073;48.33;98.6;492596849.9;558131182.7;0.71;https://pt.wikipedia.org/wiki/Italva;Italva;Noroeste Fluminense;-22.838889;-42.102778
+3302601;0.753;367.6;41220;112.13;96.7;93621217.67;99885407.65;0.39;https://pt.wikipedia.org/wiki/Mangaratiba;Mangaratiba;Metropolitana;-21.956944;-42.135
+3300704;0.735;413.44;222161;537.34;96.9;180998065.9;185302101.9;0.92;https://pt.wikipedia.org/wiki/Cabo_Frio;Cabo Frio;Baixadas;-21.995;-42.913889
+3303401;0.745;935.42;189939;203.05;98.7;2763662267;2359928431;0.89;https://pt.wikipedia.org/wiki/Nova_Friburgo;Nova Friburgo;Centro Fluminense;-22.92;-42.51
+3304607;0.668;810.96;10232;12.62;98.3;452825681.1;460571440.2;0.59;https://pt.wikipedia.org/wiki/Santa_Maria_Madalena_(Rio_de_Janeiro);Santa Maria Madalena;Centro Fluminense;-22.743889;-43.707778
+3300100;0.724;813.42;167434;205.84;96.4;340554452.9;307795254.7;0.83;https://pt.wikipedia.org/wiki/Angra_dos_Reis;Angra dos Reis;Sul Fluminense;-22.650833;-42.391944
+3305505;0.709;352.13;89559;254.34;96.3;84651509.82;73856701.59;0.58;https://pt.wikipedia.org/wiki/Saquarema;Saquarema;Baixadas;-22.05;-42.675
+3304524;0.773;228.04;156491;686.23;98.2;189343793.7;192949911.2;0.79;https://pt.wikipedia.org/wiki/Rio_das_Ostras;Rio das Ostras;Baixadas;-22.73;-42.713889
+3304755;0.639;1118.03;45059;40.3;98.0;931293167.5;930429979.6;0.67;https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_de_Itabapoana;São Francisco de Itabapoana;Norte Fluminense;-22.411944;-42.965833
+3305406;0.675;540.67;17729;32.79;97.3;107166200.9;110795345.2;0.48;https://pt.wikipedia.org/wiki/Sapucaia_(Rio_de_Janeiro);Sapucaia;Centro Fluminense;-22.062778;-42.065833
+3300936;0.713;304.88;13847;45.42;98.7;532820731;509644120.4;0.64;https://pt.wikipedia.org/wiki/Carapebus;Carapebus;Norte Fluminense;-22.116944;-43.208889
+3303005;0.713;303.27;26881;88.64;97.5;30496067.61;23646387.53;0.51;https://pt.wikipedia.org/wiki/Miracema;Miracema;Noroeste Fluminense;-22.245833;-43.7
+3304102;0.697;291.84;17288;59.24;99.1;108727341.4;99106996.13;0.62;https://pt.wikipedia.org/wiki/Porci%C3%BAncula;Porciúncula;Noroeste Fluminense;-20.930833;-41.868889
+3306305;0.771;182.1;261563;1436.33;98.5;302335868.2;279934505.7;0.63;https://pt.wikipedia.org/wiki/Volta_Redonda;Volta Redonda;Sul Fluminense;-22.403889;-43.662778
+3305703;0.611;413.4;15206;36.78;93.5;870236156;1604047337;0.61;https://pt.wikipedia.org/wiki/Sumidouro_(Rio_de_Janeiro);Sumidouro;Centro Fluminense;-22.523056;-44.104167
